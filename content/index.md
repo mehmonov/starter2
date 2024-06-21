@@ -2,7 +2,9 @@
 
 # this is h1
 
-###### this is h6
+[Link ](about)- > about file
+
+this is h6
 
 ---
 
